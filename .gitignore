@@ -1,0 +1,25 @@
+# Environnement virtuel
+env/
+venv/
+ENV/
+*.pyc
+__pycache__/
+
+# Fichiers générés automatiquement
+*.pkl
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeur (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Déploiement temporaire
+*.db
+*.sqlite3
+
+# Secrets (si présents un jour)
+.env
