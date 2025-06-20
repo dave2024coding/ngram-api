@@ -49,7 +49,7 @@ uvicorn main:app --reload
 ```
 
 L'API sera accessible à :
-➡️ [http://127.0.0.1:8000](http://127.0.0.1:8000)
+➡️ [https://ngram-api.onrender.com/](https://ngram-api.onrender.com/)
 
 ---
 
